@@ -7,7 +7,7 @@ export default function Contact() {
   const socialLinks = [
     { name: t('contact.email'), icon: Mail, value: 'doukkar2018@gmail.com', href: 'mailto:doukkar2018@gmail.com' },
     { name: 'Phone', icon: Phone, value: '+212 663-646-508', href: 'tel:+212663646508' },
-    { name: 'GitHub', icon: Github, value: 'github.com/doukkar20', href: 'https://github.com/doukkar20' },
+    { name: 'GitHub', icon: Github, value: 'github.com/doukkar2018', href: 'https://github.com/doukkar2018' },
     { name: 'LinkedIn', icon: Linkedin, value: 'linkedin.com/in/mohamed-doukkar', href: 'https://ma.linkedin.com/in/mohamed-doukkar/fr' },
   ];
 

@@ -46,7 +46,7 @@ export default function Header() {
               <LanguageSwitcher />
               <motion.a 
                 whileHover={{ y: -2, color: '#FFFFFF' }}
-                href="https://github.com/doukkar20" 
+                href="https://github.com/doukkar2018" 
                 target="_blank" 
                 rel="noreferrer" 
                 className="text-gray-500 transition-colors"

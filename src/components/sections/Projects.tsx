@@ -51,7 +51,7 @@ const projects = [
     tech: ["Security", "FIPS 140-2", "ABAC"],
     category: "Security",
     link: "#",
-    github: "https://github.com/doukkar20",
+    github: "https://github.com/doukkar2018",
     image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop"
   },
   {
@@ -145,7 +145,7 @@ export default function Projects() {
             </motion.p>
           </div>
           <motion.a
-            href="https://github.com/doukkar20"
+            href="https://github.com/doukkar2018"
             target="_blank"
             rel="noreferrer"
             initial={{ opacity: 0, scale: 0.8 }}

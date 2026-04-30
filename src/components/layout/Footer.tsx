@@ -18,7 +18,7 @@ export default function Footer() {
             </p>
             <div className="flex space-x-4">
               {[
-                { icon: Github, href: "https://github.com/doukkar20" },
+                { icon: Github, href: "https://github.com/doukkar2018" },
                 { icon: Linkedin, href: "https://ma.linkedin.com/in/mohamed-doukkar/fr" },
                 { icon: Twitter, href: "#" },
                 { icon: Mail, href: "mailto:doukkar2018@gmail.com" }
@@ -64,7 +64,7 @@ export default function Footer() {
         
         <div className="pt-12 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6">
           <p className="text-[10px] font-mono text-gray-600 uppercase tracking-widest">
-            © 2024 MOHAMED DOUKKAR. ALL SYSTEMS OPERATIONAL.
+            © 2026 MOHAMED DOUKKAR. ALL SYSTEMS OPERATIONAL.
           </p>
           <div className="flex gap-8 text-[10px] font-mono text-gray-600 uppercase tracking-widest">
             <a href="#" className="hover:text-primary transition-colors">Privacy Protocol</a>
